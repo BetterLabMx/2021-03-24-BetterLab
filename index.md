@@ -20,6 +20,7 @@ collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g.
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
+**Machines** Please consult here your machine id.  
 
 {% comment %}
 Check DC curriculum
